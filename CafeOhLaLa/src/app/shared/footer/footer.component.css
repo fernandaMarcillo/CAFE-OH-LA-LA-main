@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sawarabi+Mincho&display=swap');
+
+.family {
+    /* font-family: 'Sawarabi Mincho', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+

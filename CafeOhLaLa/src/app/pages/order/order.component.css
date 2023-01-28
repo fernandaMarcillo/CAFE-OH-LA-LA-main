@@ -1,0 +1,74 @@
+.boton{
+  border: 2px solid rgb(119, 51, 3);
+  width: 150px;
+  height: 70px;
+}
+
+.boton2{
+  border: 2px solid rgb(119, 51, 3);
+  width: 150px;
+  height: 70px;
+  margin-left: 6px;
+}
+
+.ubicacion{
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  align-items: center;
+  justify-items: center;
+  margin-left: 230px;
+}
+
+.borde{
+  border: 2px solid rgb(119, 51, 3);
+  width: 300px;
+  height: 30px;
+}
+
+.correo{
+  width: 300px;
+  height: 30px;
+  margin-left: 22px;
+}
+
+.correo ::placeholder{
+  color: white;
+  padding-left: 4px;
+}
+
+.correo1 ::placeholder{
+  color: white;
+  padding-left: 4px;
+}
+
+hr{
+  color: rgb(119, 51, 3);
+
+}
+
+.usar{
+  width: 200px;
+  height: 40px;
+}
+
+.pedido{
+  width: 500px;
+}
+
+.justificado{
+  text-align: center;
+  text-justify: initial;
+}
+
+.total{
+  height: 400px;
+}
+
+select{
+  appearance: none;
+  border-radius: 10px;
+  text-align: center;
+}

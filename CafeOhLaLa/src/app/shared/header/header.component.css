@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sawarabi+Mincho&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+.family {
+    /* font-family: 'Sawarabi Mincho', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+ #body1 {
+    background: url('../../../assets/img/bg-dashboard.jpg');
+    /*font-family: 'Satisfy', cursive;*/
+    font-family: 'Satisfy', cursive;
+ }
